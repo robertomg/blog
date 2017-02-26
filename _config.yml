@@ -8,11 +8,11 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : The Game
+tagline: Keep playing
 author :
   name : Name Lastname
-  email : blah@email.test
+  email : roberto@email.test
   github : username
   twitter : username
   feedburner : feedname
@@ -28,6 +28,8 @@ author :
 production_url : http://username.github.io
 
 gems: ["jekyll-sitemap"]
+
+theme: jekyll-theme-minimal
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -135,4 +137,3 @@ JB :
   # where [HELPER] is the name of the helper you are overriding.
   
 
-theme: jekyll-theme-minimal
